@@ -1,0 +1,16 @@
+.img-holder {
+    position: relative;
+    min-height: 400px;
+}
+.cstmzr-img {
+    height: 30em;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.legs {
+    z-index: 10;
+}
+.seat {
+    z-index: 20;
+}
